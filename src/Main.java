@@ -9,7 +9,7 @@ public class Main {
         dos1.absen();
 
         dos2 = new DosenLB();
-        dos2.setNama("Rizki Adam Kurniawan");
+        dos2.setNama("Rizki Adam Kurniawan ");
         System.out.println("Dosen Luar Biasa : "+dos2.getNama());
         dos2.absen();
 
